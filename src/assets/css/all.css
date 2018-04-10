@@ -1,0 +1,21 @@
+body, div, img, input, ul, li, section, nav, p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0; }
+
+ul, ol {
+  list-style: none; }
+
+html {
+  height: 100%;
+  width: 100%;
+  font-size: 100px; }
+
+body {
+  font-family: "微软雅黑",Arial;
+  height: 100%; }
+
+a {
+  text-decoration: none; }
+
+img {
+  display: block; }
